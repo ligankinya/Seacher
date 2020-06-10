@@ -68,16 +68,14 @@ github.com или аналогичном, с историей разработк
 
 
 
-#Сборка и запуск
+# Сборка
 mvn install
+
+# Запуск
 
 java -jar Seacher.jar
 
-1) через UI
-
-открыть http://localhost:8080 и ввести слова для поиска, разделенные пробелом
-2) Rest запрос
-
-http://localhost:8080/search?query=air&query=water ”
+* через UI - открыть http://localhost:8080 ввести в поле слова для поиска, разделенные пробелом
+* Rest API - http://localhost:8080/search?query=air&query=water ответ в виде JSON
 
 
