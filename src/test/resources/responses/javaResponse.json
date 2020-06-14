@@ -1,0 +1,356 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - java",
+        "totalResults": "360000000",
+        "searchTerms": "java",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "002612626294721388421:losrhiqpkqu"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - java",
+        "totalResults": "360000000",
+        "searchTerms": "java",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "002612626294721388421:losrhiqpkqu"
+      }
+    ]
+  },
+  "context": {
+    "title": "TestSearch.ru"
+  },
+  "searchInformation": {
+    "searchTime": 0.502885,
+    "formattedSearchTime": "0.50",
+    "totalResults": "360000000",
+    "formattedTotalResults": "360,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Java | Oracle",
+      "htmlTitle": "\u003cb\u003eJava\u003c/b\u003e | Oracle",
+      "link": "https://www.java.com/",
+      "displayLink": "www.java.com",
+      "snippet": "Get started with Java today.",
+      "htmlSnippet": "Get started with \u003cb\u003eJava\u003c/b\u003e today.",
+      "cacheId": "-5wtEOLln7MJ",
+      "formattedUrl": "https://www.java.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ejava\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl6KYA98oFd39xBglkSOnkLtKycbnVjuREmuPDArCzadse_CqQZ74OA",
+            "width": "125",
+            "height": "132"
+          }
+        ],
+        "metatags": [
+          {
+            "date": "2019-05-28",
+            "language": "en-US"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.java.com/ga/images/jv0h_codeone.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Download Free Java Software",
+      "htmlTitle": "Download Free \u003cb\u003eJava\u003c/b\u003e Software",
+      "link": "https://java.com/en/download/",
+      "displayLink": "java.com",
+      "snippet": "This page is your source to download or update your existing Java Runtime \nEnvironment (JRE, Java Runtime), also known as the Java plug-in (plugin), Java\n ...",
+      "htmlSnippet": "This page is your source to download or update your existing \u003cb\u003eJava\u003c/b\u003e Runtime \u003cbr\u003e\nEnvironment (JRE, \u003cb\u003eJava\u003c/b\u003e Runtime), also known as the \u003cb\u003eJava\u003c/b\u003e plug-in (plugin), \u003cb\u003eJava\u003c/b\u003e\u003cbr\u003e\n&nbsp;...",
+      "formattedUrl": "https://java.com/en/download/",
+      "htmlFormattedUrl": "https://\u003cb\u003ejava\u003c/b\u003e.com/en/download/",
+      "pagemap": {
+        "metatags": [
+          {
+            "date": "2018-04-17",
+            "language": "en-US"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Download Free Java Software",
+      "htmlTitle": "Download Free \u003cb\u003eJava\u003c/b\u003e Software",
+      "link": "https://www.java.com/download/",
+      "displayLink": "www.java.com",
+      "snippet": "This page is your source to download or update your existing Java Runtime \nEnvironment (JRE, Java Runtime), also known as the Java plug-in (plugin), Java\n ...",
+      "htmlSnippet": "This page is your source to download or update your existing \u003cb\u003eJava\u003c/b\u003e Runtime \u003cbr\u003e\nEnvironment (JRE, \u003cb\u003eJava\u003c/b\u003e Runtime), also known as the \u003cb\u003eJava\u003c/b\u003e plug-in (plugin), \u003cb\u003eJava\u003c/b\u003e\u003cbr\u003e\n&nbsp;...",
+      "formattedUrl": "https://www.java.com/download/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ejava\u003c/b\u003e.com/download/",
+      "pagemap": {
+        "metatags": [
+          {
+            "date": "2018-04-17",
+            "language": "en-US"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Oracle Java Technologies | Oracle",
+      "htmlTitle": "Oracle \u003cb\u003eJava\u003c/b\u003e Technologies | Oracle",
+      "link": "https://www.oracle.com/java/technologies/",
+      "displayLink": "www.oracle.com",
+      "snippet": "Java can help reduce costs, drive innovation, & improve application services; the \n#1 programming language for IoT, enterprise architecture, and cloud ...",
+      "htmlSnippet": "\u003cb\u003eJava\u003c/b\u003e can help reduce costs, drive innovation, &amp; improve application services; the \u003cbr\u003e\n#1 programming language for IoT, enterprise architecture, and cloud&nbsp;...",
+      "cacheId": "faXP3aHwxEsJ",
+      "formattedUrl": "https://www.oracle.com/java/technologies/",
+      "htmlFormattedUrl": "https://www.oracle.com/\u003cb\u003ejava\u003c/b\u003e/technologies/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUqHyCMBqJooQpolKxP2JZt8o7uEqqTLRKctXuRHehtPw7JaDFDzmZME0",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#fcfbfa",
+            "country": "United States",
+            "msapplication-config": "none",
+            "updated date": "2019-06-25T21:43:21Z",
+            "msapplication-square70x70logo": "favicon-128.png",
+            "altpages": "ae,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,ro,ru,sa,se,sg,sk,tr,tw,uk,za",
+            "language": "en",
+            "title": "Oracle Java Technologies | Oracle",
+            "msapplication-tileimage": "favicon-270.png",
+            "msapplication-square150x150logo": "favicon-270.png",
+            "countryid": "US",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "siteid": "us"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.oracle.com/us/assets/obic-technology-cloud-3889479.svg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Java (programming language) - Wikipedia",
+      "htmlTitle": "\u003cb\u003eJava\u003c/b\u003e (programming language) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Java is a general-purpose programming language that is class-based, object-\noriented, and designed to have as few implementation dependencies as possible\n.",
+      "htmlSnippet": "\u003cb\u003eJava\u003c/b\u003e is a general-purpose programming language that is class-based, object-\u003cbr\u003e\noriented, and designed to have as few implementation dependencies as possible\u003cbr\u003e\n.",
+      "cacheId": "ty8cA0ylPEMJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eJava\u003c/b\u003e_(programming_language)",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTkd-KfsXtxIbwamVrMSuOjYm8ZFHt05veHuXwVV4RF9aF0Yc3FJeFpQw",
+            "width": "166",
+            "height": "304"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Java SE - Downloads | Oracle Technology Network | Oracle",
+      "htmlTitle": "\u003cb\u003eJava\u003c/b\u003e SE - Downloads | Oracle Technology Network | Oracle",
+      "link": "https://www.oracle.com/java/technologies/javase-downloads.html",
+      "displayLink": "www.oracle.com",
+      "snippet": "Java SE downloads including: Java Development Kit (JDK), Server Java Runtime \nEnvironment (Server JRE), and Java Runtime Environment (JRE).",
+      "htmlSnippet": "\u003cb\u003eJava\u003c/b\u003e SE downloads including: \u003cb\u003eJava\u003c/b\u003e Development Kit (JDK), Server \u003cb\u003eJava\u003c/b\u003e Runtime \u003cbr\u003e\nEnvironment (Server JRE), and \u003cb\u003eJava\u003c/b\u003e Runtime Environment (JRE).",
+      "cacheId": "MPZmgvzzjMcJ",
+      "formattedUrl": "https://www.oracle.com/java/technologies/javase-downloads.html",
+      "htmlFormattedUrl": "https://www.oracle.com/\u003cb\u003ejava\u003c/b\u003e/technologies/\u003cb\u003ejava\u003c/b\u003ese-downloads.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#fcfbfa",
+            "country": "United States",
+            "msapplication-config": "none",
+            "updated date": "2018-04-19T19:17:32Z",
+            "msapplication-square70x70logo": "favicon-128.png",
+            "altpages": "ae,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,ro,ru,sa,se,sg,sk,tr,tw,uk,za",
+            "language": "en",
+            "title": "Java SE - Downloads | Oracle Technology Network | Oracle",
+            "msapplication-tileimage": "favicon-270.png",
+            "msapplication-square150x150logo": "favicon-270.png",
+            "countryid": "US",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "siteid": "us"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Java - Wikipedia",
+      "htmlTitle": "\u003cb\u003eJava\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Java",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Java is an island of Indonesia, bordered by the Indian Ocean on the south and \nthe Java Sea on the north. With a population of over 141 million (Java only) or ...",
+      "htmlSnippet": "\u003cb\u003eJava\u003c/b\u003e is an island of Indonesia, bordered by the Indian Ocean on the south and \u003cbr\u003e\nthe \u003cb\u003eJava\u003c/b\u003e Sea on the north. With a population of over 141 million (\u003cb\u003eJava\u003c/b\u003e only) or&nbsp;...",
+      "cacheId": "bTyBg6oVPaMJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Java",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eJava\u003c/b\u003e",
+      "pagemap": {
+        "hcard": [
+          {
+            "note": "Greater Sunda Islands",
+            "fn": "Java",
+            "nickname": "Jawa (Indonesian) ꦗꦮ (Javanese) ᮏᮝ (Sundanese)"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiy1hW5xtSZO6BeQBRysnx-8GV8GqEyOu3k0KpRP5YPVUSX3Xy-lz9EGL9",
+            "width": "283",
+            "height": "178"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Java_Topography.png/1200px-Java_Topography.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Java_Topography.png/1200px-Java_Topography.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Java Software | Oracle",
+      "htmlTitle": "\u003cb\u003eJava\u003c/b\u003e Software | Oracle",
+      "link": "https://www.oracle.com/java/",
+      "displayLink": "www.oracle.com",
+      "snippet": "Java software reduces costs, drives innovation, and improves application \nservices. Learn more about Java, the #1 development platform.",
+      "htmlSnippet": "\u003cb\u003eJava\u003c/b\u003e software reduces costs, drives innovation, and improves application \u003cbr\u003e\nservices. Learn more about \u003cb\u003eJava\u003c/b\u003e, the #1 development platform.",
+      "cacheId": "iF5AEYHmMlgJ",
+      "formattedUrl": "https://www.oracle.com/java/",
+      "htmlFormattedUrl": "https://www.oracle.com/\u003cb\u003ejava\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK5OhTZ68cKDofhREVXU6LEU5DcNOLlDazRCbr7i4ini3xiIYfRpIvaUQ",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#fcfbfa",
+            "country": "United States",
+            "og:image": "https://www.oracle.com/a/ocom/img/social-og-oracle-badge.jpg",
+            "msapplication-config": "none",
+            "updated date": "2020-03-10T20:34:49Z",
+            "twitter:card": "summary",
+            "twitter:title": "Java Software | Oracle",
+            "msapplication-square70x70logo": "favicon-128.png",
+            "altpages": "ae,ae-ar,ar,au,br,ca-en,ca-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,ro,ru,sa,sa-ar,se,sg,tr,tw,uk,za",
+            "og:title": "Java Software | Oracle",
+            "language": "en",
+            "title": "Java Software | Oracle",
+            "msapplication-tileimage": "favicon-270.png",
+            "og:description": "Java software reduces costs, drives innovation, and improves application services. Learn more about Java, the #1 development platform.",
+            "msapplication-square150x150logo": "favicon-270.png",
+            "countryid": "US",
+            "twitter:image": "https://www.oracle.com/a/ocom/img/social-og-oracle-badge.jpg",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "Java software reduces costs, drives innovation, and improves application services. Learn more about Java, the #1 development platform.",
+            "siteid": "us"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.oracle.com/a/ocom/img/social-og-oracle-badge.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Java™ Tutorials",
+      "htmlTitle": "The \u003cb\u003eJava\u003c/b\u003e™ Tutorials",
+      "link": "https://docs.oracle.com/javase/tutorial/",
+      "displayLink": "docs.oracle.com",
+      "snippet": "Jul 19, 2016 ... Groups of related lessons are organized into \"trails\". Trails Covering the Basics. \nThese trails are available in book form as The Java Tutorial, Sixth ...",
+      "htmlSnippet": "Jul 19, 2016 \u003cb\u003e...\u003c/b\u003e Groups of related lessons are organized into &quot;trails&quot;. Trails Covering the Basics. \u003cbr\u003e\nThese trails are available in book form as The \u003cb\u003eJava\u003c/b\u003e Tutorial, Sixth&nbsp;...",
+      "cacheId": "wNNF1sY9l9gJ",
+      "formattedUrl": "https://docs.oracle.com/javase/tutorial/",
+      "htmlFormattedUrl": "https://docs.oracle.com/\u003cb\u003ejava\u003c/b\u003ese/tutorial/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzCGqhXaYYmY2ULKJjnb4_ygLk0EiecON4L7AlPVhHe8wYQL2N-NSxfrI",
+            "width": "124",
+            "height": "128"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://docs.oracle.com/javase/tutorial/images/ThinkingDuke.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Introduction to Java",
+      "htmlTitle": "Introduction to \u003cb\u003eJava\u003c/b\u003e",
+      "link": "https://www.w3schools.com/java/java_intro.asp",
+      "displayLink": "www.w3schools.com",
+      "snippet": "Well organized and easy to understand Web building tutorials with lots of \nexamples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, \nJava ...",
+      "htmlSnippet": "Well organized and easy to understand Web building tutorials with lots of \u003cbr\u003e\nexamples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, \u003cbr\u003e\n\u003cb\u003eJava\u003c/b\u003e&nbsp;...",
+      "cacheId": "sP-zNDqz7_AJ",
+      "formattedUrl": "https://www.w3schools.com/java/java_intro.asp",
+      "htmlFormattedUrl": "https://www.w3schools.com/\u003cb\u003ejava\u003c/b\u003e/\u003cb\u003ejava\u003c/b\u003e_intro.asp",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ]
+      }
+    }
+  ]
+}

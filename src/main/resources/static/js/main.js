@@ -21,10 +21,33 @@ function fire_ajax_submit() {
         cache: false,
         timeout: 600000,
         success: function (data) {
+            var col = ['Domain', 'Count'];
+            // Create a table.
+            var table = document.createElement("table");
+            table.classList.add("table");
+            table.classList.add("table-striped");
 
-            var json = "<h4>Response</h4><pre>"
-                + JSON.stringify(data, null, 4) + "</pre>";
-            $('#feedback').html(json);
+            // Create table header row using the extracted headers above.
+            var tr = table.insertRow(-1);                   // table row.
+            for (var i = 0; i < col.length; i++) {
+                var th = document.createElement("th");      // table header.
+                th.innerHTML = col[i];
+                tr.appendChild(th);
+            }
+
+            // add json data to the table as rows.
+            for (var key in data) {
+                tr = table.insertRow(-1);
+                var keyCell = tr.insertCell(-1);
+                keyCell.innerHTML = key;
+                var valCell = tr.insertCell(-1);
+                valCell.innerHTML = data[key];
+            }
+
+            // Now, add the newly created table with json data, to a container.
+            var divResTable = document.getElementById('resultTable');
+            divResTable.innerHTML = "";
+            divResTable.appendChild(table);
 
             console.log("SUCCESS : ", data);
             $("#btn-search").prop("disabled", false);
@@ -38,8 +61,6 @@ function fire_ajax_submit() {
 
             console.log("ERROR : ", e);
             $("#btn-search").prop("disabled", false);
-
         }
     });
-
 }
